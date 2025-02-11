@@ -1,0 +1,7 @@
+venv/
+.env
+src/document_parser/files/
+src/document_parser/output/
+
+__pycache__/
+*.pyc
